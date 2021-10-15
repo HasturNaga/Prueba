@@ -1,0 +1,7 @@
+github
+haciendo cambios para probar github.
+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
+git remote add origin htts://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@github.com/HasturNaga/MiRepositorio.git
+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
+por que no anda...!!!
+fuck....
